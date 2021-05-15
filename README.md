@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wicorp
+- 👋 Hi, I’m Ting
 - 👀 I’m interested in Economics and Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
